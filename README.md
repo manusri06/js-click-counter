@@ -15,7 +15,10 @@ A basic counter application built using **HTML, CSS, and Vanilla JavaScript**.
 - JavaScript
 
 ## 📷 Preview 
-![Uploading image.png…]()
+
+<img width="903" height="679" alt="image" src="https://github.com/user-attachments/assets/28733fca-c05a-4c25-9616-c71a90c07fb4" />
+
+
 ## 📂 Project Structure
 project/
 │── index.html
